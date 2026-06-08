@@ -146,3 +146,21 @@ After completing this lab, you will:
 ✅ Structure projects for portability and collaboration
 
 These scripting and packaging skills are essential for building automation tools and working in modern Python development workflows.
+
+
+## Screenshot
+
+![Passing Tests](screenshot.png)
+
+
+## Usage
+
+Run the log generator:
+```bash
+python lib/generate_log.py
+```
+
+Run the API fetch script:
+```bash
+python lib/fetch_data.py
+```
